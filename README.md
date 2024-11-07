@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hhhcwx
-- 👀 I’m interested in FPGA && digital IC design
+- 👀 I’m interested in FPGA dev && digital IC design
 - 🌱 I’m currently learning IC design
-- 💞️ I’m looking to collaborate on verilog code alogrithm
+- 💞️ I’m looking to collaborate on wireless communication alogrithm
 - 📫 How to reach me cwx15021246@buaa.edu.cn
 
 <!---
